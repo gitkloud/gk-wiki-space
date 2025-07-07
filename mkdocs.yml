@@ -1,0 +1,14 @@
+site_name: Gitkloud OpenWorks Labs
+nav:
+  - Home: index.md
+  - Reliabilty Services: services.md
+  - Reliabilty Patterns:
+    - Overview: platforms/index.md
+    - Setup: platforms/setup.md
+  - Reliabilty Platforms:
+    - Overview: index.md
+
+theme:
+  name: dracula
+  logo: assets/img/dracula.png
+  favicon: assets/img/favicon.ico
