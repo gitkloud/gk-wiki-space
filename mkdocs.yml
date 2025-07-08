@@ -10,5 +10,4 @@ nav:
 
 theme:
   name: dracula
-  logo: assets/img/dracula.png
-  favicon: assets/img/favicon.ico
+  logo: logos/logo.png
